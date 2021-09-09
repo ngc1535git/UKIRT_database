@@ -1,0 +1,9 @@
+Schema: https://dbdiagram.io/
+
+Windows SQLite commands: https://sqlite.org/cli.html
+
+.cd <to each layer of path bc stupid?
+.open <database file>
+.show
+.headers on
+.mode table

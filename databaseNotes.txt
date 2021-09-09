@@ -1,0 +1,19 @@
+Schema: https://dbdiagram.io/
+
+Windows SQLite commands: https://sqlite.org/cli.html
+
+.cd <to each layer of path bc stupid?
+.open <database file>
+.show
+.headers on
+.mode table
+
+#########################################################
+
+0) create database file
+1) populateDB.py <image dir> <db file> -i
+2) populateDB.py <image dir> <db file> -s
+3) populateDB.py <image dir> <db file> -t
+4) populateDB.py <image dir> <db file> -r
+5) insertTLEFile.py <txt tle file> <db file>
+6) postProcessDB.py <db file> -e

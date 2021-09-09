@@ -1,0 +1,16 @@
+#                           filename     julian_date      mag    sig     source_ra    source_dec   [1]   [2]   [3]   [4]    [5]       ZP ZP_sig inst_mag in_sig               [6] [7] [8]    [9]          [10] FWHM"
+            y20210203_00672_r_a.ldac 2459248.8176274  12.4001 0.0375   42.19870966   +8.93755868 -0.05  0.14  0.00  0.00  5.00  24.7645 0.0374 -12.3643 0.0026 2MASS H   0 UKIRTWFCAM      APER 0.93
+#           y20210203_00673_r_a.ldac 2459248.8177097  16.4212 0.0996   42.19592776   +8.94283596  9.96 -18.86  0.00  0.00  5.00  24.7729 0.0612  -8.3517 0.0786 2MASS H   3 UKIRTWFCAM      APER 3.78
+#           y20210203_00674_r_a.ldac 2459248.8177913  -8.5355 0.0662   42.19598791   +8.94286418  9.75 -18.96  0.00  0.00  5.00   0.0000 0.0000  -8.5355 0.0662 y20210203_00674_r_a.fits -   0 UKIRTWFCAM      APER 1.78
+            y20210203_00675_r_a.ldac 2459248.8178736  12.4309 0.0379   42.19867953   +8.93757076  0.06  0.09  0.00  0.00  5.00  24.7799 0.0378 -12.3489 0.0026 2MASS H   0 UKIRTWFCAM      APER 0.91
+            y20210203_00676_r_a.ldac 2459248.8179559 -12.3591 0.0026   42.19869543   +8.93759642  0.00  0.00  0.00  0.00  5.00   0.0000 0.0000 -12.3591 0.0026 y20210203_00676_r_a.fits -   0 UKIRTWFCAM      APER 0.85
+#
+# [1]: predicted_RA - source_RA [arcsec]
+# [2]: predicted_Dec - source_Dec [arcsec]
+# [3,4]: manual target offsets in RA and DEC [arcsec]
+# [5]: exposure time (s)
+# [6]: photometric catalog
+# [7]: photometric band
+# [8]: Source Extractor flag
+# [9]: telescope/instrument
+# [10]: photometry method
